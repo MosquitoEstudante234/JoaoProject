@@ -1,0 +1,68 @@
+﻿{
+    "Scp96Rig": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/Users/sol.silveira/Downloads/scp-096-nightmare/source/animatescp096/source",
+        "Object": {
+            "Scp96Rig": {
+                "Generation": "AccuRig",
+                "Physics": {},
+                "Meshes": {
+                    "scp096": {
+                        "Materials": {
+                            "SCP096_bmp_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    156.55062866210938,
+                                    120.93247985839844,
+                                    202.73545837402345
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    156.55062866210938,
+                                    120.93247985839844,
+                                    202.73545837402345
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            },
+                            "SCP096EYES_bmp_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    163.08091735839845,
+                                    196.75672912597657,
+                                    155.57754516601563
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    163.08091735839845,
+                                    196.75672912597657,
+                                    155.57754516601563
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

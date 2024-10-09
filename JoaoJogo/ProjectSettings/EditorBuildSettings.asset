@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PreGameLoad.unity
+    guid: 3c6563dddeae77148aab14f57714664a
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: ceea26636ed31d1488f6b5bf6cc8ace3
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: e7e9be54096adad4983263b62a36f370
+  - enabled: 1
+    path: Assets/Scenes/PreGameScene.unity
+    guid: 42247cd8b53697347974c5bea52ab3b2
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: c858c79e2f09eaf41bfaf65115ff956d
+  - enabled: 1
+    path: Assets/Scenes/gameOverScene.unity
+    guid: 5599680e34a55ce4ab7b8f3e2449f997
+  - enabled: 1
+    path: Assets/Scenes/HospitalScene.unity
+    guid: 57258fb20498d3c4bb4ffd3a528558af
+  - enabled: 1
+    path: Assets/Scenes/CarCrashScene.unity
+    guid: 64628e778fc405840b5fccf96a037445
+  m_configObjects: {}
